@@ -5,7 +5,7 @@ Home: https://github.com/pexpect/ptyprocess
 
 Package license: ISC
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: Run a subprocess in a pseudo terminal
 
@@ -69,6 +69,7 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/ptyprocess-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/ptyprocess-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/ptyprocess-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/ptyprocess-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/ptyprocess-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/ptyprocess-feedstock/branch/master)
