@@ -6,7 +6,7 @@ package:
 
 source:
   fn: ptyprocess-{{ version }}.tar.gz
-  url: https://pypi.python.org/packages/source/p/ptyprocess/ptyprocess-{{ version }}.tar.gz
+  url: https://pypi.io/packages/source/p/ptyprocess/ptyprocess-{{ version }}.tar.gz
   sha256: e64193f0047ad603b71f202332ab5527c5e52aa7c8b609704fc28c0dc20c4365
 
 build:
