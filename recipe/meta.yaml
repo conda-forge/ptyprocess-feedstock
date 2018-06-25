@@ -14,7 +14,7 @@ build:
   skip: True  # [win]
 
 requirements:
-  build:
+  host:
     - python
   run:
     - python
@@ -27,6 +27,12 @@ about:
   home: https://github.com/pexpect/ptyprocess
   license: ISC
   summary: 'Run a subprocess in a pseudo terminal'
+  description: |
+    Ptyprocess allows you to launch a subprocess in a pseudo terminal (pty),
+    and interact with both the process and its pty.
+  doc_url: http://ptyprocess.readthedocs.io/en/latest/
+  doc_source_url: https://github.com/pexpect/ptyprocess/blob/master/docs/index.rst
+  dev_url: https://github.com/pexpect/ptyprocess
 
 extra:
   recipe-maintainers:
