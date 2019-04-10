@@ -1,7 +1,3 @@
-<!--
-# -*- mode: jinja -*-
--->
-
 About ptyprocess
 ================
 
@@ -20,9 +16,14 @@ and interact with both the process and its pty.
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/ptyprocess-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/ptyprocess-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/ptyprocess-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/ptyprocess-feedstock)
-![Windows disabled](https://img.shields.io/badge/Windows-disabled-lightgrey.svg)
+
+<table><tr>
+    <td>All platforms:</td>
+    <td>
+      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================
